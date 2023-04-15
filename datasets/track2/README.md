@@ -18,7 +18,7 @@
 >
 > 参赛者可以使用 cged2021 中的数据作为开发数据。
 
-- 中文 Lang8 数据集（与赛道三相同）
+- 中文 Lang8 数据集
 
 > 下载地址：https://pan.baidu.com/s/1Txmx7cdUrDRp5l3X9UvsgQ 
 >
