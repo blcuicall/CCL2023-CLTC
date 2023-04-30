@@ -243,9 +243,9 @@ $$F_{0.5} = \frac{(1+0.5^2) \times R \times P}{R + 0.5^2 \times P}$$
 
 ## 微信交流群
 
-<center>
-    <img src="/docs/assets/images/wechat_group.jpg" width="30%">
-</center>
+<p align='center'>
+    <img src="/assets/images/wechat_group.jpg" width="30%">
+</p>
 
 [--返回目录--](#目录)
 
