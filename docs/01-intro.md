@@ -241,6 +241,12 @@ $$F_{0.5} = \frac{(1+0.5^2) \times R \times P}{R + 0.5^2 \times P}$$
 
 评测委员会将组织专家进行双盲审稿，评测中内容和写作质量均佳的评测报告（中英文）将被收录入CCL Anthology和ACL Anthology。
 
+## 微信交流群
+
+<center>
+    <img src="/assets/images/wechat_group.jpg" width="30%">
+</center>
+
 [--返回目录--](#目录)
 
 **参考文献**
