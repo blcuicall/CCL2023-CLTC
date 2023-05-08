@@ -67,20 +67,10 @@
 阶段一提交结果命名：
 
 ```
-track_testA.zip	#压缩包名字
-    ├── yaclc-minimal_testA.para	# minimal 维度结果
-    └── yaclc-fluency_testA.para	# fluency 维度结果
+track_test.zip	#压缩包名字
+    ├── yaclc-minimal_test.para	# minimal 维度结果
+    └── yaclc-fluency_test.para	# fluency 维度结果
 ```
-
-阶段二提交结果命名：
-
-```
-track1_testB.zip	#压缩包名字
-    ├── yaclc-minimal_testB.para	# minimal 维度结果
-    └── yaclc-fluency_testB.para	# fluency 维度结果
-```
-
-
 
 [^1]:Yuanyuan Zhao, Nan Jiang, Weiwei Sun, and Xiaojun Wan. 2018. Overview of the nlpcc 2018 shared task: Grammatical error correction. In CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC), pages 439–445. ([pdf](http://tcci.ccf.org.cn/conference/2018/papers/EV11.pdf)) 
 [^2]:Yingying Wang, Cunliang Kong, Liner Yang, Yijun Wang, Xiaorong Lu, Renfen Hu, Shan He, Zhenghao Liu, Yun Chen, Erhong Yang, and Maosong Sun. 2021. YACLC: A Chinese Learner Corpus with Multidimensional Annotation. arXiv preprint arXiv:2112.15043. ([pdf](https://arxiv.org/abs/2112.15043)) 
