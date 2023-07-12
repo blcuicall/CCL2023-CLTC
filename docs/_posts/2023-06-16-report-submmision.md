@@ -46,8 +46,8 @@ categories: message
 
 ## 报告标题
 
-- 中文标题格式为 “CCL2023-CLTC赛道[X][开放/封闭任务]：[标题]”。其中 X 为赛道编号，即“一”、“二”。
-- 英文标题格式为 “CCL2023-CLTC Track [n][Open/Close Task]: [Title]”。其中 n 为赛道编号，为 1-2 中的数字。
+- 英文名：System Report for CCL23-Eval Task 1：队伍名、方法等内容
+- 中文名：CCL23-Eval 任务1系统报告：队伍名、方法等内容
 
 ## 报告内容
 
